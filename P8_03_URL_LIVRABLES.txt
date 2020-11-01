@@ -1,0 +1,16 @@
+**** URL des Images : 
+https://oc-p8-salah.s3.us-east-2.amazonaws.com/
+Exemple : https://oc-p8-salah.s3.us-east-2.amazonaws.com/Cherry_Wax_Yellow/126_100.jpg
+
+**** URL des fichiers en format parquet
+https://oc-p8-salah.s3.us-east-2.amazonaws.com/processed.out/
+Par exemple https://oc-p8-salah.s3.us-east-2.amazonaws.com/processed.out/part-00000-a1452c2d-77c3-4613-87b7-08d5d30c5959-c000.snappy.parquet
+(part-0000 à part-00089)
+ 
+**** URL du notebook : 
+
+http://ec2-18-217-107-7.us-east-2.compute.amazonaws.com:8888/notebooks/P8_Exploration.ipynb
+
+Comme j'éteins souvent le serveur pour des raisons de cout, le fichier existe ici aussi : 
+
+https://oc-p8-salah.s3.us-east-2.amazonaws.com/P8_Exploration.ipynb
